@@ -4,6 +4,8 @@ import { render } from "react-dom";
 import { Header } from "./components/Header";
 import { Home } from "./components/Home";
 
+// Comment for Git test
+
 class App extends React.Component {
     render() {
         return(
